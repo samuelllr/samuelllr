@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-!  [nome do fluxo de trabalho de exemplo]&nbsp;(https://github.com/actions/hello-world/workflows/Greet%20Everyone/badge.svg)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=samuelllr)](https://github.com/anuraghazra/github-readme-stats)
