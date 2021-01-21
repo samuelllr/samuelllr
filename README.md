@@ -1,6 +1,7 @@
 ### Olá Dev! 👋
 
 ✨ Sou um cara que gosta e robsta do mundo da tecnologia,eletrônica e programação. ✨
+   
    Gosto de conversar então não tem problema em me chamar em chat 😄.
 
 #### Atualmente programo: <img src="https://img.shields.io/badge/-JavaScript-yellow"/> <img src="https://img.shields.io/badge/C%2B%2B-Arduino-brightgreen"/>
