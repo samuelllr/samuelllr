@@ -11,3 +11,5 @@ Gosto de conversar então não tem problema em me chamar em chat 😄.
 ![Twitter Follow](https://img.shields.io/twitter/follow/Samuelllr_htcod?style=social) <a href="https://codepen.io/samuellr"><img src="https://img.shields.io/badge/-Codepen-lightgrey"/></a>
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=samuelllr&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=samuelllr/samuelllr)
