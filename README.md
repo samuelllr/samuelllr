@@ -1,6 +1,8 @@
 ### Olá Dev! 👋
 
-samuelllr/Samuelllr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+✨ Sou um cara que gosta e robsta do mundo da tecnologia,eletrônica e programação. ✨
+
+Atualmente programo nas linguagens: 
 
 Here are some ideas to get you started:
 
