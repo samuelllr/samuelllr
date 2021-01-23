@@ -11,9 +11,8 @@
 <img src="https://img.shields.io/badge/-HTML5-orange"/> <img src="https://img.shields.io/badge/-CSS3-blue"/>
 
 #### Minhas Redes Sociais:
-![Twitter Follow](https://img.shields.io/twitter/follow/Samuelllr_htcod?style=social) <a href="https://codepen.io/samuellr"><img src="https://img.shields.io/badge/-Codepen-lightgrey"/></a>
 
-<img width="50" height="50" src="icons/icon-codepen.png"/>
+<a href="https://codepen.io/samuellr"><img width="50" height="50" src="icons/icon-codepen.png"/></a><a href="https://www.instagram.com/shamky_p/"><img width="50" height="50" src="icons/icon-instragam.png"/></a><a href="https://twitter.com/samuelllr_htcod"><img width="50" height="50" src="icons/icon-twitter.png"/></a>
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=samuelllr&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
