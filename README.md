@@ -13,7 +13,7 @@
 #### Minhas Redes Sociais:
 ![Twitter Follow](https://img.shields.io/twitter/follow/Samuelllr_htcod?style=social) <a href="https://codepen.io/samuellr"><img src="https://img.shields.io/badge/-Codepen-lightgrey"/></a>
 
-<img style="width:50px;height:50px;" src="icons/icon-codepen.png"/>
+<img width="50" height="50" src="icons/icon-codepen.png"/>
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=samuelllr&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
