@@ -2,13 +2,11 @@
 
 ✨ Sou um cara que gosta e robsta do mundo da tecnologia,eletrônica e programação. ✨
 
-<div align="right"><img width="100" height="100" src="icons/animated.gif"/></div>
-
 ### Atualmente programo: 
 
 <img src="https://img.shields.io/badge/-JavaScript-yellow"/> <img src="https://img.shields.io/badge/C%2B%2B-Arduino-brightgreen"/>
 
-### E as de Hypertext 😄:  
+### E as de Hypertext 😄:  <div align="right"><img width="100" height="100" src="icons/animated.gif"/></div>
 
 <img src="https://img.shields.io/badge/-HTML5-orange"/> <img src="https://img.shields.io/badge/-CSS3-blue"/>
 
