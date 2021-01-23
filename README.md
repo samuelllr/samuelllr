@@ -2,7 +2,7 @@
 
 ✨ Sou um cara que gosta e robsta do mundo da tecnologia,eletrônica e programação. ✨
 
-<img width="100" height="100" src="icon/animated.gif"/>
+<img width="100" height="100" src="icons/animated.gif"/>
 
 ### Atualmente programo: 
 
