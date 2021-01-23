@@ -1,6 +1,7 @@
 ## Olá Dev! 👋
 
-✨ Sou um cara que gosta e robsta do mundo da tecnologia,eletrônica e programação. ✨ <div align="right"><img width="100" height="100" src="icons/animated.gif"/></div>
+✨ Sou um cara que gosta e robsta do mundo da tecnologia,eletrônica e programação. ✨ 
+<div align="left"><img width="200" height="200" src="icons/animated.gif"/></div>
 
 ### Atualmente programo: 
 
