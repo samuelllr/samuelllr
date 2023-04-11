@@ -1,6 +1,6 @@
-## Olá Dev! 👋
+## Olá! 👋
 
-✨ Sou um cara que gosta e robsta do mundo da tecnologia,eletrônica e programação. ✨ 
+✨ Bem-vindo ao meu perfil ✨ 
 
 <img src="https://img.shields.io/badge/-JavaScript-yellow"/> <img src="https://img.shields.io/badge/C%2B%2B-Arduino-brightgreen"/> <img src="https://img.shields.io/badge/-HTML5-orange"/> <img src="https://img.shields.io/badge/-CSS3-blue"/>
 
